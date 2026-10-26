@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.15\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-09 19:08+0000\n"
+"POT-Creation-Date: 2026-10-25 17:19+0000\n"
 "PO-Revision-Date: 2025-09-16 00:01+0000\n"
 "Last-Translator: Sukhmanpreet kaur, 2026\n"
 "Language-Team: Panjabi (Punjabi) (https://app.transifex.com/python-doc/"
@@ -110,6 +110,15 @@ msgid ""
 "thousands separator, otherwise underscores are not displayed (the default)."
 msgstr ""
 
+msgid "Added the *underscore_numbers* parameter."
+msgstr ""
+
+msgid "No longer attempts to write to :data:`!sys.stdout` if it is ``None``."
+msgstr ""
+
+msgid "Added the *expand* parameter."
+msgstr ""
+
 msgid ""
 "Alias for :func:`~pprint.pp` with *sort_dicts* set to ``True`` by default, "
 "which would automatically sort the dictionaries' keys, you might want to "
@@ -159,15 +168,6 @@ msgid "Added the *compact* parameter."
 msgstr ""
 
 msgid "Added the *sort_dicts* parameter."
-msgstr ""
-
-msgid "Added the *underscore_numbers* parameter."
-msgstr ""
-
-msgid "No longer attempts to write to :data:`!sys.stdout` if it is ``None``."
-msgstr ""
-
-msgid "Added the *expand* parameter."
 msgstr ""
 
 msgid ":class:`PrettyPrinter` instances have the following methods:"
