@@ -1,16 +1,16 @@
 # Punjabi (pa) Python Docs Glossary
 
-These are the Punjabi terms we use when translating the Python documentation, so that the translation stays consistent. For how we write, see `STYLE_GUIDE.md`.
+These are the Punjabi terms we use when translating the Python documentation, so that the translation stays consistent. For how we write, see [STYLE_GUIDE.md](STYLE_GUIDE.md).
 
-# How to Use This Glossary
+## How to Use This Glossary
 
 - If a term is listed here, use it. Don't use a variant.
-- If it isn't listed, reuse the wording from existing translations. If there is none, follow the steps under "Technical terms" in `STYLE_GUIDE.md` and propose the term as described under "Adding or Changing a Term" below.
+- If it isn't listed, reuse the wording from existing translations. If there is none, follow the steps under "Technical terms" in [STYLE_GUIDE.md](STYLE_GUIDE.md) and propose the term as described under "Adding or Changing a Term" below.
 - Never translate function, module, class and exception names, directives, roles, placeholders or code.
 
 ---
 
-# Core Python Terms
+## Core Python Terms
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -50,7 +50,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Data Types
+## Data Types
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -83,7 +83,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Mutability
+## Mutability
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -94,7 +94,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Operators and Operations
+## Operators and Operations
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -114,7 +114,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Collections and Iteration
+## Collections and Iteration
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -125,7 +125,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Exceptions and Errors
+## Exceptions and Errors
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -137,7 +137,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Modules and Libraries
+## Modules and Libraries
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -152,7 +152,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# String and Formatting Terms
+## String and Formatting Terms
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -172,7 +172,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Numeric Terms
+## Numeric Terms
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -191,7 +191,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Standard Library Terms
+## Standard Library Terms
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -213,7 +213,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Documentation Terms
+## Documentation Terms
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -234,7 +234,7 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Documentation Workflow Terms
+## Documentation Workflow Terms
 
 | English | Preferred Punjabi |
 |---------|-------------------|
@@ -255,19 +255,19 @@ These are the Punjabi terms we use when translating the Python documentation, so
 
 ---
 
-# Terms Commonly Left Untranslated
+## Terms Commonly Left Untranslated
 
 These widely used terms normally stay in English: Python, API, JSON, XML, HTML, HTTP, HTTPS, URL, Unicode, UTF-8, ASCII, Git, GitHub, Transifex, Linux, Windows, macOS, POSIX, CPython, PyPI, pip, venv, IDLE, REPL.
 
 ---
 
-# Python Keywords
+## Python Keywords
 
 Python keywords (`if`, `else`, `for`, `class`, `def`, `async`, `await`, `match` and so on) are never translated.
 
 ---
 
-# Adding or Changing a Term
+## Adding or Changing a Term
 
 1. Check that the term is not already listed under a different translation.
 2. Agree on the wording with the other contributors in the pull request or an issue, and check it against existing translations.
