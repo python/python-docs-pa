@@ -23,88 +23,94 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Stable"
-msgstr ""
+msgstr "ਸਥਿਰ"
 
 msgid "In development"
-msgstr ""
+msgstr "ਵਿਕਾਸ ਅਧੀਨ"
 
 msgid "This page"
-msgstr ""
+msgstr "ਇਹ ਸਫ਼ਾ"
 
 msgid "Report a bug"
-msgstr ""
+msgstr "ਬੱਗ ਦੀ ਰਿਪੋਰਟ ਕਰੋ"
 
 msgid "Improve this page"
-msgstr ""
+msgstr "ਇਸ ਸਫ਼ੇ ਵਿੱਚ ਸੁਧਾਰ ਕਰੋ"
 
 msgid "Show source"
-msgstr ""
+msgstr "ਸਰੋਤ ਦਿਖਾਓ"
 
 msgid "Show translation source"
-msgstr ""
+msgstr "ਅਨੁਵਾਦ ਦਾ ਸਰੋਤ ਦਿਖਾਓ"
 
 msgid "Download"
-msgstr ""
+msgstr "ਡਾਊਨਲੋਡ ਕਰੋ"
 
 msgid "Download Python %(dl_version)s documentation"
-msgstr ""
+msgstr "Python %(dl_version)s ਦੇ ਦਸਤਾਵੇਜ਼ ਡਾਊਨਲੋਡ ਕਰੋ"
 
 msgid "Last updated on: %(last_updated)s."
-msgstr ""
+msgstr "ਆਖਰੀ ਵਾਰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ: %(last_updated)s।"
 
 msgid ""
 "Download an archive containing all the documentation for this version of "
 "Python:"
-msgstr ""
+msgstr "Python ਦੇ ਇਸ ਵਰਜਨ ਦੇ ਸਾਰੇ ਦਸਤਾਵੇਜ਼ਾਂ ਵਾਲਾ ਆਰਕਾਈਵ ਡਾਊਨਲੋਡ ਕਰੋ:"
 
 msgid "Format"
-msgstr ""
+msgstr "ਫਾਰਮੈਟ"
 
 msgid "Packed as .zip"
-msgstr ""
+msgstr ".zip ਫਾਰਮੈਟ ਵਿੱਚ ਪੈਕ ਕੀਤਾ ਗਿਆ"
 
 msgid "Packed as .tar.bz2"
-msgstr ""
+msgstr ".tar.bz2 ਫਾਰਮੈਟ ਵਿੱਚ ਪੈਕ ਕੀਤਾ ਗਿਆ"
 
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.zip\">Download</a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.zip\">ਡਾਊਨਲੋਡ ਕਰੋ</a>"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.tar.bz2\">Download</a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.tar.bz2\">ਡਾਊਨਲੋਡ ਕਰੋ</a>"
 
 msgid "Plain text"
-msgstr ""
+msgstr "ਸਾਦਾ ਪਾਠ"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.zip\">Download</a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.zip\">ਡਾਊਨਲੋਡ ਕਰੋ</a>"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.tar.bz2\">Download</a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.tar.bz2\">ਡਾਊਨਲੋਡ ਕਰੋ</a>"
 
 msgid "Texinfo"
-msgstr ""
+msgstr "Texinfo"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.zip\">Download</a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.zip\">ਡਾਊਨਲੋਡ ਕਰੋ</a>"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.tar.bz2\">Download</"
 "a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.tar.bz2\">ਡਾਊਨਲੋਡ ਕਰੋ</a>"
 
 msgid "EPUB"
-msgstr ""
+msgstr "EPUB"
 
 msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs.epub\">Download</a>"
-msgstr ""
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs.epub\">ਡਾਊਨਲੋਡ ਕਰੋ</a>"
 
 msgid ""
 "\n"
@@ -115,6 +121,13 @@ msgid ""
 "and run <code>make dist-pdf</code> in the <code>Doc/</code> directory of a "
 "copy of the CPython repository.\n"
 msgstr ""
+"\n"
+"ਅਸੀਂ ਹੁਣ ਦਸਤਾਵੇਜ਼ਾਂ ਦੀਆਂ ਪਹਿਲਾਂ ਤੋਂ ਤਿਆਰ PDF ਫਾਈਲਾਂ ਮੁਹੱਈਆ ਨਹੀਂ ਕਰਦੇ।\n"
+"PDF ਆਰਕਾਈਵ ਬਣਾਉਣ ਲਈ, ਹੇਠਾਂ ਦਿੱਤੀ\n"
+"<a href=\"https://devguide.python.org/documentation/start-documenting/"
+"#building-the-documentation\">ਡਿਵੈਲਪਰ ਗਾਈਡ</a>\n"
+"ਵਿੱਚ ਦਿੱਤੀਆਂ ਹਦਾਇਤਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ ਅਤੇ CPython ਰਿਪੋਜ਼ਟਰੀ ਦੀ ਕਾਪੀ ਵਿੱਚ "
+"<code>Doc/</code> ਡਾਇਰੈਕਟਰੀ ਅੰਦਰ <code>make dist-pdf</code> ਕਮਾਂਡ ਚਲਾਓ।\n"
 
 msgid ""
 "\n"
@@ -122,270 +135,282 @@ msgid ""
 "listing</a>\n"
 "for file sizes."
 msgstr ""
+"\n"
+"ਫਾਈਲਾਂ ਦੇ ਆਕਾਰ ਦੇਖਣ ਲਈ <a href=\"https://docs.python.org/%(version)s/archives/\">ਡਾਇਰੈਕਟਰੀ ਸੂਚੀ</a>\n"
+"ਵੇਖੋ।"
 
 msgid "Problems"
-msgstr ""
+msgstr "ਸਮੱਸਿਆਵਾਂ"
 
 msgid ""
 "<a href=\"%(bugs)s\">Open an issue</a>\n"
 "if you have comments or suggestions for the Python documentation."
 msgstr ""
+"ਜੇ ਤੁਹਾਡੇ ਕੋਲ Python ਦੇ ਦਸਤਾਵੇਜ਼ਾਂ ਬਾਰੇ ਕੋਈ ਟਿੱਪਣੀਆਂ ਜਾਂ ਸੁਝਾਅ ਹਨ, ਤਾਂ\n"
+"<a href=\"%(bugs)s\">ਨਵਾਂ ਇਸ਼ੂ ਦਰਜ ਕਰੋ</a>।"
 
 msgid "Availability"
-msgstr ""
+msgstr "ਉਪਲਬਧਤਾ"
 
 msgid "Part of the"
-msgstr ""
+msgstr "ਦਾ ਹਿੱਸਾ"
 
 msgid "Limited API"
-msgstr ""
+msgstr "ਸੀਮਿਤ API"
 
 msgid "Stable ABI"
-msgstr ""
+msgstr "ਸਥਿਰ ABI"
 
 msgid "(as an opaque struct)"
-msgstr ""
+msgstr "(ਇੱਕ ਅਪਾਰਦਰਸ਼ੀ struct ਵਜੋਂ)"
 
 msgid "(including all members)"
-msgstr ""
+msgstr "(ਸਾਰੇ ਮੈਂਬਰਾਂ ਸਮੇਤ)"
 
 msgid "since version %s"
-msgstr ""
+msgstr "ਵਰਜਨ %s ਤੋਂ"
 
 msgid "(Only some members are part of the stable ABI.)"
-msgstr ""
+msgstr "(ਸਿਰਫ਼ ਕੁਝ ਮੈਂਬਰ ਹੀ ਸਥਿਰ ABI ਦਾ ਹਿੱਸਾ ਹਨ।)"
 
 msgid "This is"
-msgstr ""
+msgstr "ਇਹ ਹੈ"
 
 msgid "Unstable API"
-msgstr ""
+msgstr "ਅਸਥਿਰ API"
 
 msgid ". It may change without warning in minor releases."
-msgstr ""
+msgstr "। ਇਹ ਮਾਈਨਰ ਰਿਲੀਜ਼ਾਂ ਵਿੱਚ ਬਿਨਾਂ ਕਿਸੇ ਚੇਤਾਵਨੀ ਦੇ ਬਦਲ ਸਕਦਾ ਹੈ।"
 
 msgid "Return value: Always NULL."
-msgstr ""
+msgstr "ਵਾਪਸੀ ਮੁੱਲ: ਹਮੇਸ਼ਾ NULL।"
 
 msgid "Return value: New reference."
-msgstr ""
+msgstr "ਵਾਪਸੀ ਮੁੱਲ: ਨਵਾਂ ਰੈਫਰੈਂਸ।"
 
 msgid "Return value: Borrowed reference."
-msgstr ""
+msgstr "ਵਾਪਸੀ ਮੁੱਲ: ਉਧਾਰ ਲਿਆ ਹੋਇਆ ਰੈਫਰੈਂਸ।"
 
 msgid "CPython implementation detail:"
-msgstr ""
+msgstr "CPython ਦੇ ਲਾਗੂਕਰਨ ਬਾਰੇ ਵੇਰਵਾ:"
 
 msgid "Deprecated since version %s, will be removed in version %s"
-msgstr ""
+msgstr "ਵਰਜਨ %s ਤੋਂ ਵਰਤੋਂ ਲਈ ਅਣਸਿਫ਼ਾਰਸ਼ੀ; ਵਰਜਨ %s ਵਿੱਚ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ"
 
 msgid "Deprecated since version %s, removed in version %s"
-msgstr ""
+msgstr "ਵਰਜਨ %s ਤੋਂ ਵਰਤੋਂ ਲਈ ਅਣਸਿਫ਼ਾਰਸ਼ੀ; ਵਰਜਨ %s ਵਿੱਚ ਹਟਾ ਦਿੱਤਾ ਗਿਆ"
 
 msgid ":term:`Soft deprecated` since version %s"
-msgstr ""
+msgstr "ਵਰਜਨ %s ਤੋਂ ਨਵੇਂ ਕੋਡ ਵਿੱਚ ਵਰਤਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ (Soft deprecated)"
 
 msgid "in development"
-msgstr ""
+msgstr "ਵਿਕਾਸ ਅਧੀਨ"
 
 msgid "pre-release"
-msgstr ""
+msgstr "ਪੂਰਵ-ਰਿਲੀਜ਼"
 
 msgid "stable"
-msgstr ""
+msgstr "ਸਥਿਰ"
 
 msgid "security-fixes"
-msgstr ""
+msgstr "ਸੁਰੱਖਿਆ ਸੰਬੰਧੀ ਸੁਧਾਰ"
 
 msgid "EOL"
-msgstr ""
+msgstr "EOL"
 
 msgid "Welcome! This is the official documentation for Python %(release)s."
-msgstr ""
+msgstr "ਜੀ ਆਇਆਂ ਨੂੰ! ਇਹ Python %(release)s ਲਈ ਅਧਿਕਾਰਤ ਦਸਤਾਵੇਜ਼ ਹਨ।"
 
 msgid "Documentation sections:"
-msgstr ""
+msgstr "ਦਸਤਾਵੇਜ਼ਾਂ ਦੇ ਭਾਗ:"
 
 msgid "What's new in Python %(version)s?"
-msgstr ""
+msgstr "Python %(version)s ਵਿੱਚ ਨਵਾਂ ਕੀ ਹੈ?"
 
 msgid ""
 "Or <a href=\"%(whatsnew_index)s\">all \"What's new\" documents since Python "
 "2.0</a>"
 msgstr ""
+"ਜਾਂ Python 2.0 ਤੋਂ ਬਾਅਦ ਦੇ ਸਾਰੇ <a href=\"%(whatsnew_index)s\">ਨਵੇਂ ਬਦਲਾਵਾਂ "
+"ਬਾਰੇ ਦਸਤਾਵੇਜ਼</a>"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "ਟਿਊਟੋਰਿਅਲ"
 
 msgid "Start here: a tour of Python's syntax and features"
-msgstr ""
+msgstr "ਇੱਥੋਂ ਸ਼ੁਰੂ ਕਰੋ: Python ਦੇ ਸਿੰਟੈਕਸ ਅਤੇ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਜਾਣ-ਪਛਾਣ"
 
 msgid "Built-ins reference"
-msgstr ""
+msgstr "ਬਿਲਟ-ਇਨ ਦੀ ਸੰਦਰਭ ਗਾਈਡ"
 
 msgid "Built-in functions and classes"
-msgstr ""
+msgstr "ਬਿਲਟ-ਇਨ ਫੰਕਸ਼ਨ ਅਤੇ ਕਲਾਸਾਂ"
 
 msgid "Library reference"
-msgstr ""
+msgstr "ਲਾਇਬ੍ਰੇਰੀ ਸੰਦਰਭ ਗਾਈਡ"
 
 msgid "Standard library modules"
-msgstr ""
+msgstr "ਸਟੈਂਡਰਡ ਲਾਇਬ੍ਰੇਰੀ ਦੇ ਮੋਡੀਊਲ"
 
 msgid "Language reference"
-msgstr ""
+msgstr "ਭਾਸ਼ਾ ਸੰਦਰਭ ਗਾਈਡ"
 
 msgid "Syntax and language elements"
-msgstr ""
+msgstr "ਸਿੰਟੈਕਸ ਅਤੇ ਭਾਸ਼ਾ ਦੇ ਤੱਤ"
 
 msgid "Python setup and usage"
-msgstr ""
+msgstr "Python ਦੀ ਸਥਾਪਨਾ ਅਤੇ ਵਰਤੋਂ"
 
 msgid "How to install, configure, and use Python"
-msgstr ""
+msgstr "Python ਨੂੰ ਕਿਵੇਂ ਇੰਸਟਾਲ, ਕੌਂਫਿਗਰ ਅਤੇ ਵਰਤਣਾ ਹੈ"
 
 msgid "Python HOWTOs"
-msgstr ""
+msgstr "Python HOWTOs"
 
 msgid "In-depth topic manuals"
-msgstr ""
+msgstr "ਵਿਸ਼ਿਆਂ ਬਾਰੇ ਵਿਸਤ੍ਰਿਤ ਗਾਈਡਾਂ"
 
 msgid "Installing Python modules"
-msgstr ""
+msgstr "Python ਮੋਡੀਊਲ ਇੰਸਟਾਲ ਕਰਨਾ"
 
 msgid "Third-party modules and PyPI.org"
-msgstr ""
+msgstr "ਤੀਜੀ-ਧਿਰ ਦੇ ਮੋਡੀਊਲ ਅਤੇ PyPI.org"
 
 msgid "Extending and embedding"
-msgstr ""
+msgstr "Python ਦਾ ਵਿਸਤਾਰ ਅਤੇ ਏਮਬੈਡਿੰਗ"
 
 msgid "For C/C++ programmers"
-msgstr ""
+msgstr "C/C++ ਪ੍ਰੋਗਰਾਮਰਾਂ ਲਈ"
 
 msgid "Python's C API"
-msgstr ""
+msgstr "Python ਦਾ C API"
 
 msgid "C API reference"
-msgstr ""
+msgstr "C API ਸੰਦਰਭ ਗਾਈਡ"
 
 msgid "FAQs"
-msgstr ""
+msgstr "ਅਕਸਰ ਪੁੱਛੇ ਜਾਣ ਵਾਲੇ ਸਵਾਲ"
 
 msgid "Frequently asked questions (with answers!)"
-msgstr ""
+msgstr "ਅਕਸਰ ਪੁੱਛੇ ਜਾਣ ਵਾਲੇ ਸਵਾਲ (ਜਵਾਬਾਂ ਸਮੇਤ!)"
 
 msgid "Deprecations"
-msgstr ""
+msgstr "ਵਰਤੋਂ ਲਈ ਅਣਸਿਫ਼ਾਰਸ਼ੀ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ"
 
 msgid "Deprecated functionality"
-msgstr ""
+msgstr "ਵਰਤੋਂ ਲਈ ਅਣਸਿਫ਼ਾਰਸ਼ੀ ਕਾਰਜਕੁਸ਼ਲਤਾ"
 
 msgid "Other resources:"
-msgstr ""
+msgstr "ਹੋਰ ਸਰੋਤ:"
 
 msgid "Python developer's guide"
-msgstr ""
+msgstr "Python ਡਿਵੈਲਪਰ ਗਾਈਡ"
 
 msgid "Information on contributing to Python"
-msgstr ""
+msgstr "Python ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਣ ਬਾਰੇ ਜਾਣਕਾਰੀ"
 
 msgid "Python Packaging User Guide"
-msgstr ""
+msgstr "Python ਪੈਕੇਜਿੰਗ ਯੂਜ਼ਰ ਗਾਈਡ"
 
 msgid "Resources relating to Python packaging"
-msgstr ""
+msgstr "Python ਪੈਕੇਜਿੰਗ ਨਾਲ ਸੰਬੰਧਿਤ ਸਰੋਤ"
 
 msgid "Audio/visual talks"
-msgstr ""
+msgstr "ਆਡੀਓ ਅਤੇ ਵੀਡੀਓ ਵਾਰਤਾਵਾਂ"
 
 msgid "Podcasts, talks, and video presentations from the community"
-msgstr ""
+msgstr "ਭਾਈਚਾਰੇ ਵੱਲੋਂ ਪੌਡਕਾਸਟ, ਵਾਰਤਾਵਾਂ ਅਤੇ ਵੀਡੀਓ ਪੇਸ਼ਕਾਰੀਆਂ"
 
 msgid "Python Enhancement Proposals"
-msgstr ""
+msgstr "Python ਸੁਧਾਰ ਪ੍ਰਸਤਾਵ"
 
 msgid "Index of proposed improvements to Python"
-msgstr ""
+msgstr "Python ਲਈ ਪ੍ਰਸਤਾਵਿਤ ਸੁਧਾਰਾਂ ਦੀ ਸੂਚੀ"
 
 msgid "Static Typing with Python"
-msgstr ""
+msgstr "Python ਨਾਲ ਸਥਿਰ ਟਾਈਪਿੰਗ"
 
 msgid "Information and guides about Python type safety"
-msgstr ""
+msgstr "Python ਵਿੱਚ ਟਾਈਪ ਸੁਰੱਖਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਅਤੇ ਗਾਈਡਾਂ"
 
 msgid "Indices, glossary, and search:"
-msgstr ""
+msgstr "ਸੂਚਕਾਂਕ, ਸ਼ਬਦਾਵਲੀ ਅਤੇ ਖੋਜ:"
 
 msgid "Global module index"
-msgstr ""
+msgstr "ਸਾਰੇ ਮੋਡੀਊਲਾਂ ਦਾ ਸੂਚਕਾਂਕ"
 
 msgid "All modules and libraries"
-msgstr ""
+msgstr "ਸਾਰੇ ਮੋਡੀਊਲ ਅਤੇ ਲਾਇਬ੍ਰੇਰੀਆਂ"
 
 msgid "General index"
-msgstr ""
+msgstr "ਆਮ ਸੂਚਕਾਂਕ"
 
 msgid "All functions, classes, and terms"
-msgstr ""
+msgstr "ਸਾਰੇ ਫੰਕਸ਼ਨ, ਕਲਾਸਾਂ ਅਤੇ ਸ਼ਬਦ"
 
 msgid "Glossary"
-msgstr ""
+msgstr "ਸ਼ਬਦਾਵਲੀ"
 
 msgid "Terms explained"
-msgstr ""
+msgstr "ਸ਼ਬਦਾਂ ਦੀ ਵਿਆਖਿਆ"
 
 msgid "Search page"
-msgstr ""
+msgstr "ਖੋਜ ਪੰਨਾ"
 
 msgid "Search this documentation"
-msgstr ""
+msgstr "ਇਸ ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਖੋਜ ਕਰੋ"
 
 msgid "Complete table of contents"
-msgstr ""
+msgstr "ਸਮੱਗਰੀ ਦੀ ਪੂਰੀ ਸੂਚੀ"
 
 msgid "All sections and subsections"
-msgstr ""
+msgstr "ਸਾਰੇ ਭਾਗ ਅਤੇ ਉਪ-ਭਾਗ"
 
 msgid "Project information:"
-msgstr ""
+msgstr "ਪ੍ਰੋਜੈਕਟ ਬਾਰੇ ਜਾਣਕਾਰੀ:"
 
 msgid "Reporting issues"
-msgstr ""
+msgstr "ਸਮੱਸਿਆਵਾਂ ਦੀ ਰਿਪੋਰਟ ਕਰਨਾ"
 
 msgid "Contributing to docs"
-msgstr ""
+msgstr "ਦਸਤਾਵੇਜ਼ਾਂ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਣਾ"
 
 msgid "Download the documentation"
-msgstr ""
+msgstr "ਦਸਤਾਵੇਜ਼ ਡਾਊਨਲੋਡ ਕਰੋ"
 
 msgid "History and license of Python"
-msgstr ""
+msgstr "Python ਦਾ ਇਤਿਹਾਸ ਅਤੇ ਲਾਇਸੈਂਸ"
 
 msgid "Copyright"
-msgstr ""
+msgstr "ਕਾਪੀਰਾਈਟ"
 
 msgid "About the documentation"
-msgstr ""
+msgstr "ਦਸਤਾਵੇਜ਼ਾਂ ਬਾਰੇ"
 
 msgid "Docs by version"
-msgstr ""
+msgstr "ਵਰਜਨ ਅਨੁਸਾਰ ਦਸਤਾਵੇਜ਼"
 
 msgid "All versions"
-msgstr ""
+msgstr "ਸਾਰੇ ਵਰਜਨ"
 
 msgid ""
 "This document is for an old version of Python that is no longer supported.\n"
 "    You should upgrade, and read the"
 msgstr ""
+"ਇਹ ਦਸਤਾਵੇਜ਼ Python ਦੇ ਇੱਕ ਪੁਰਾਣੇ ਵਰਜਨ ਲਈ ਹਨ, ਜਿਸਦਾ ਹੁਣ ਸਮਰਥਨ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ।\n"
+"    ਤੁਹਾਨੂੰ ਅੱਪਗ੍ਰੇਡ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਹ ਵੀ ਪੜ੍ਹਨਾ ਚਾਹੀਦਾ ਹੈ:"
 
 msgid "Python documentation for the current stable release"
-msgstr ""
+msgstr "ਮੌਜੂਦਾ ਸਥਿਰ ਰਿਲੀਜ਼ ਲਈ Python ਦੇ ਦਸਤਾਵੇਜ਼"
 
 msgid ""
 "This is a deploy preview created from a <a href=\"%(repository_url)s/pull/%"
 "(pr_id)s\">pull request</a>.\n"
 "  For authoritative documentation, see"
 msgstr ""
+"ਇਹ ਇੱਕ <a href=\"%(repository_url)s/pull/%"
+"(pr_id)s\">ਪੁੱਲ ਰਿਕਵੈਸਟ</a> ਤੋਂ ਬਣਾਇਆ ਗਿਆ ਡਿਪਲੌਇ ਪ੍ਰੀਵਿਊ ਹੈ।\n"
+"  ਅਧਿਕਾਰਤ ਦਸਤਾਵੇਜ਼ਾਂ ਲਈ ਵੇਖੋ"
 
 msgid "the current stable release"
-msgstr ""
+msgstr "ਮੌਜੂਦਾ ਸਥਿਰ ਰਿਲੀਜ਼"
